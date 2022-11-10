@@ -14,11 +14,14 @@ Include the neural network model diagram.
 
 ### STEP 1:
 
+Download and split the dataset into training and testing datasets
 ### STEP 2:
 
+rescale the data as that the training is made easy
 ### STEP 3:
 
-Write your own steps
+create the model for the program , in this experiment we create to networks , one for encoding and one for decoding Write your own steps
+
 
 ## PROGRAM
 

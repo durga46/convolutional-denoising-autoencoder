@@ -122,8 +122,8 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![ipp](https://user-images.githubusercontent.com/75235704/201088621-e5461ac9-8492-4444-8748-704bc578174c.jpeg)
 
-Include your plot here
 
 ### Original vs Noisy Vs Reconstructed Image
 

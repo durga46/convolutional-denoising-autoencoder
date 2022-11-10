@@ -127,8 +127,8 @@ Include your plot here
 
 ### Original vs Noisy Vs Reconstructed Image
 
-Include a few sample images here.
-
+![ip](https://user-images.githubusercontent.com/75235704/201084703-f4e8cb19-4b69-48df-b7c9-5a57b5529020.png)
 
 
 ## RESULT
+Thus we have successfully developed a convolutional autoencoder for image denoising application.
